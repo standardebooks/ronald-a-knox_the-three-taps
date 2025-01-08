@@ -65,3 +65,10 @@ footer{
 	display: none;
 }
 /* end verse */
+
+/* Bespoke styling */
+#chapter-15 blockquote p{
+	margin-right: 30%;
+	text-align: right;
+}
+/* end bespoke*/
