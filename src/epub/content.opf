@@ -37,6 +37,7 @@
 		<dc:title id="fulltitle">The Three Taps: A Detective Story Without a Moral</dc:title>
 		<meta property="file-as" refines="#fulltitle">Three Taps, The</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="dcterms:alternate" refines="#title">The 3 Taps</meta>
 		<dc:subject id="subject-1">English wit and humor, Pictorial</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85043985</meta>
@@ -62,6 +63,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Ronald_Knox</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n50043983</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
