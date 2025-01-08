@@ -30,6 +30,19 @@ section[epub|type~="dedication"] > *{
 }
 /* end centered dedications */
 
+/* Dedication styling */
+#dedication p{
+	line-height: 2;
+}
+#dedication span:first-of-type{
+	font-variant: all-small-caps;
+}
+
+#dedication span:last-of-type{
+	text-transform: uppercase;
+}
+/* end dedication styling */
+
 /* Begin all figures */
 figure{
 	break-inside: avoid;
