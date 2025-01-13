@@ -34,6 +34,7 @@ section[epub|type~="dedication"] > *{
 #dedication p{
 	line-height: 2;
 }
+
 #dedication span:first-of-type{
 	font-variant: all-small-caps;
 }
@@ -109,4 +110,4 @@ footer{
 	margin-right: 30%;
 	text-align: right;
 }
-/* end bespoke*/
+/* end bespoke */
