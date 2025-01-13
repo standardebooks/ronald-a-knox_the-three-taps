@@ -45,9 +45,11 @@
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The mysterious death of a heavily insured businessman calls for investigation by the insurer’s private detective.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Jephthah Mottram is a wealthy businessman whose life is insured by a policy which pays a huge sum to his beneficiaries should he die before the age of 65, and after that milestone provides an annuity for himself. During his annual fishing retreat at a rural and decrepit Midlands inn, he dies one night of gas poisoning. There are complications. What is to be made of his attempt to negotiate a settlement with the insurance company because of a diagnosis he had received before his holiday? And what of the disposition of the three gas taps in his bedroom at the hostelry?&lt;/p&gt;
+			&lt;p&gt;Inevitably, Mottram’s death requires investigation, not only by the police, but importantly by the insurance company’s brilliant albeit lazy detective, Miles Bredon. Bredon is accompanied on the investigation by his wife—a very sharp “Watson” to Bredon’s “Holmes”—as well as the police detective who turns out to have served with Bredon in Intelligence in the Great War.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/ronald-a-knox"&gt;Ronald Knox&lt;/a&gt; populates this story of detection with a strong cast of supporting characters, adding a variety of viewpoints to the perception of Mottram’s untimely death. He also gave the book the subtitle &lt;i&gt;A Detective Story Without a Moral&lt;/i&gt;—perhaps a subtle invitation from the author to his readers to draw a different conclusion?&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/50428</dc:source>
@@ -64,10 +66,10 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n50043983</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Paul Sérusier</dc:contributor>
+		<meta property="file-as" refines="#artist">Sérusier, Paul</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Paul_S%C3%A9rusier</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82152735</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Brian Raiter</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Raiter, Brian</meta>
