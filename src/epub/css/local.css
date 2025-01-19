@@ -68,6 +68,7 @@ figcaption{
 }
 
 header > [epub|type~="z3998:salutation"]{
+	margin-bottom: 1em;
 	text-align: initial;
 }
 
@@ -88,19 +89,19 @@ footer{
 }
 /* end letters */
 
-/* Begin verse */
-[epub|type~="z3998:verse"] p{
+/* Begin song */
+[epub|type~="z3998:song"] p{
 	text-align: initial;
 	text-indent: 0;
 }
 
-[epub|type~="z3998:verse"] p > span{
+[epub|type~="z3998:song"] p > span{
 	display: block;
 	padding-left: 1em;
 	text-indent: -1em;
 }
 
-[epub|type~="z3998:verse"] p > span + br{
+[epub|type~="z3998:song"] p > span + br{
 	display: none;
 }
 /* end verse */
