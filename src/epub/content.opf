@@ -37,7 +37,7 @@
 		<dc:title id="fulltitle">The Three Taps: A Detective Story Without a Moral</dc:title>
 		<meta property="file-as" refines="#fulltitle">Three Taps, The</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
-		<meta property="dcterms:alternate" refines="#title">The 3 Taps</meta>
+		<meta property="dcterms:alternative" refines="#title">The 3 Taps</meta>
 		<dc:subject id="subject-1">English wit and humor, Pictorial</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85043985</meta>
