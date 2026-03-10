@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-15.xhtml">
 		<ignore code="t-011">
+			<line>39</line>
 			<reason>Form of text represents remnant of a burnt piece of paper.</reason>
 		</ignore>
 	</file>
