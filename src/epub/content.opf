@@ -46,7 +46,7 @@
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<meta property="schema:genre">Mystery</meta>
-		<dc:abstract>The mysterious death of a heavily-insured businessman calls for an investigation by the insurer’s private detective.</dc:abstract>
+		<meta property="schema:abstract">The mysterious death of a heavily-insured businessman calls for an investigation by the insurer’s private detective.</meta>
 		<dc:description>
 			&lt;p&gt;Jephthah Mottram is a wealthy businessman whose life is insured by a policy which pays a huge sum to his beneficiaries should he die before the age of 65, and after that provides an annuity. During his annual fishing retreat at a rural and decrepit Midlands inn, he dies one night of gas poisoning. There are complications. What is to be made of his attempt to negotiate a settlement with the insurance company because of a diagnosis he had received before his holiday? And what of the disposition of the three gas taps in his bedroom at the hostelry?&lt;/p&gt;
 			&lt;p&gt;Inevitably, Mottram’s death requires investigation, not only by the police but by the insurance company’s brilliant—albeit lazy—detective, &lt;a href="https://standardebooks.org/collections/miles-bredon"&gt;Miles Bredon&lt;/a&gt;. Bredon is accompanied by his wife—a very sharp Watson to Bredon’s &lt;a href="https://standardebooks.org/collections/sherlock-holmes"&gt;Holmes&lt;/a&gt;—as well as a police detective who had served with Bredon in the Great War.&lt;/p&gt;
